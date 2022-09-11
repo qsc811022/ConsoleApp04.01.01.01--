@@ -34,6 +34,7 @@ namespace ConsoleApp04._01._01._01
                 int sum=hours*5;
                 return sum;
             }
+            //練習if else
         }
     }
 }
